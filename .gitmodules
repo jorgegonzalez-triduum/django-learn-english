@@ -1,0 +1,3 @@
+[submodule "montessoread_base/triduum_resource"]
+	path = montessoread_base/triduum_resource
+	url = git@bitbucket.org:triduum-inc/triduum-resource.git

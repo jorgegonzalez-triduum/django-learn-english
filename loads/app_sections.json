@@ -1,0 +1,162 @@
+[
+{
+  "model": "cross_app.appsection",
+  "pk": 4,
+  "fields": {
+    "meta": {
+      "created_at": "11/10/2019 22:37:39",
+      "created_by": "",
+      "modified_at": "11/10/2019 22:37:39",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": 12,
+    "name": "App sections",
+    "path": "/roles_management/app-sections/",
+    "hover_text": "example hover text",
+    "icon_name": "fe-book",
+    "order": 4
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 12,
+  "fields": {
+    "meta": {
+      "created_at": "11/10/2019 22:39:58",
+      "created_by": "",
+      "modified_at": "11/10/2019 22:39:58",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": null,
+    "name": "Management",
+    "path": null,
+    "hover_text": null,
+    "icon_name": "fe-settings",
+    "order": 2
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 13,
+  "fields": {
+    "meta": {
+      "created_at": "11/10/2019 22:39:58",
+      "created_by": "",
+      "modified_at": "11/10/2019 22:39:58",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": null,
+    "name": "Home",
+    "path": "/",
+    "hover_text": null,
+    "icon_name": "fe-home",
+    "order": 1
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 14,
+  "fields": {
+    "meta": {
+      "created_at": "19/10/2019 12:17:21",
+      "created_by": "",
+      "modified_at": "19/10/2019 14:28:05",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": 12,
+    "name": "Users",
+    "path": "/roles_management/users/",
+    "hover_text": "Users Management",
+    "icon_name": "fe-user",
+    "order": 1
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 15,
+  "fields": {
+    "meta": {
+      "created_at": "19/10/2019 12:17:21",
+      "created_by": "",
+      "modified_at": "19/10/2019 14:28:05",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": 12,
+    "name": "Company info",
+    "path": "/roles_management/company-info/",
+    "hover_text": "Company info",
+    "icon_name": "fe-briefcase",
+    "order": 5
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 16,
+  "fields": {
+    "meta": {
+      "created_at": "19/10/2019 12:17:21",
+      "created_by": "",
+      "modified_at": "19/10/2019 14:28:05",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": 12,
+    "name": "Permission",
+    "path": "/roles_management/perms/",
+    "hover_text": "Permissions",
+    "icon_name": "fe-lock",
+    "order": 3
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 17,
+  "fields": {
+    "meta": {
+      "created_at": "19/10/2019 12:17:21",
+      "created_by": "",
+      "modified_at": "19/10/2019 14:28:05",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": null,
+    "name": "Test form",
+    "path": "/test-form/",
+    "hover_text": "Gorgi",
+    "icon_name": "",
+    "order": 3
+  }
+},
+{
+  "model": "cross_app.appsection",
+  "pk": 18,
+  "fields": {
+    "meta": {
+      "created_at": "19/10/2019 12:17:21",
+      "created_by": "",
+      "modified_at": "19/10/2019 14:28:05",
+      "modified_by": ""
+    },
+    "disabled": false,
+    "app_permission": null,
+    "parent": 12,
+    "name": "Groups",
+    "path": "/roles_management/groups/",
+    "hover_text": "Groups",
+    "icon_name": "fe-users",
+    "order": 2
+  }
+}
+]
